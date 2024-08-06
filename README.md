@@ -1,5 +1,18 @@
 # hotel-management-backend
-Backend para el sistema de gestión de hotel.
+Backend para el sistema de gestión de hotel. Este proyecto está construido con Node.js y Express, y utiliza Sequelize para interactuar con una base de datos MySQL. Proporciona endpoints para registrar huéspedes, realizar el checkout, ver la lista de huéspedes y consultar los registros de auditoría. Incluye lógica para gestionar habitaciones ocupadas y registrar cambios en la base de datos.
+
+**Características:**
+- Registro de huéspedes
+- Checkout de huéspedes
+- Visualización de la lista de huéspedes
+- Consultas de auditoría
+- Gestión de habitaciones ocupadas
+
+**Tecnologías:**
+- Node.js
+- Express
+- Sequelize
+- MySQL
 
 ## Gestión de Habitaciones
 
